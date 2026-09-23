@@ -22,6 +22,10 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "AppCIMUC_GrupoX"
+=======
+rootProject.name = "My Application"
+>>>>>>> 90621b5 (feact: Terminando de iniciar el programa con la parte 1 de la guia 8)
 include(":app")
  

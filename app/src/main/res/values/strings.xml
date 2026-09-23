@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">AppCIMUC_GrupoX</string>
+=======
+    <string name="app_name">My Application</string>
+>>>>>>> 90621b5 (feact: Terminando de iniciar el programa con la parte 1 de la guia 8)
 </resources>

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+<<<<<<< HEAD
     <style name="Theme.AppCIMUC_GrupoX" parent="android:Theme.Material.Light.NoActionBar" />
+=======
+    <style name="Theme.MyApplication" parent="android:Theme.Material.Light.NoActionBar" />
+>>>>>>> 90621b5 (feact: Terminando de iniciar el programa con la parte 1 de la guia 8)
 </resources>
